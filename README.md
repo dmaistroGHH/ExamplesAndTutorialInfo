@@ -1,3 +1,3 @@
-# ExamplesAndTutorial_Info
-07/11/19
+# ExamplesAndTutorial_Info directory
+07/15/19
 
